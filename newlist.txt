@@ -57,6 +57,7 @@ https://www.pluralsight.com/courses/azure-scripting-operations-automation-70-533
 https://www.pluralsight.com/courses/sso-federated-identities-managing-implementing
 https://www.pluralsight.com/courses/windows-server-2012-r2-certificate-services
 https://www.pluralsight.com/courses/vsphere-6-datacenter-deploy-consolidate-datacenter
+https://app.pluralsight.com/library/courses/mastering-git/table-of-contents
 ============================================================================================
 https://www.pluralsight.com/courses/powershell-gotchas - Done
 https://www.pluralsight.com/courses/automation-powershell-scripts - Done
