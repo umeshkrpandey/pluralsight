@@ -1,12 +1,6 @@
-https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents
-https://app.pluralsight.com/library/courses/angular-2-forms/table-of-contents
-https://app.pluralsight.com/library/courses/angular-cli/table-of-contents
-https://app.pluralsight.com/library/courses/angular-2-reactive-forms/table-of-contents
-https://app.pluralsight.com/library/courses/angular-http-communication/table-of-contents
-https://app.pluralsight.com/library/courses/angular-fundamentals/table-of-contents
+https://www.pluralsight.com/courses/windows-server-administration-fundamentals-using-powershell - Started
 
-https://www.pluralsight.com/courses/linux-email-servers-lpic-2
-https://www.pluralsight.com/courses/csharp-events-delegates
+
 https://www.pluralsight.com/courses/packer-designing-immutable-infrastructure
 https://www.pluralsight.com/courses/consul-deploying
 https://www.pluralsight.com/courses/juniper-jncia-junos-jn0-102-user-interfaces
@@ -31,16 +25,10 @@ https://www.pluralsight.com/courses/design-patterns-java-structural
 https://www.pluralsight.com/courses/design-patterns-java-creational
 https://www.pluralsight.com/courses/design-patterns-java-behavioral
 
-https://www.pluralsight.com/courses/powershell-network-on-the - Done
 https://www.pluralsight.com/courses/postgres-dotnet-developers
 https://www.pluralsight.com/courses/postgresql-document-database
 
 https://www.pluralsight.com/courses/real-time-web-dashboards-highcharts
-
-
-https://www.pluralsight.com/courses/powershell-gotchas - Done
-https://www.pluralsight.com/courses/automation-powershell-scripts - Started
-https://www.pluralsight.com/courses/powershell-putting-to-work
 
 https://www.pluralsight.com/courses/learning-programming-javascript
 https://www.pluralsight.com/courses/npm-playbook
@@ -62,3 +50,23 @@ https://www.pluralsight.com/courses/html5-creating-offline-first-mobile-apps
 https://www.pluralsight.com/courses/mobile-application-xamarin-forms-visual-studio-2017
 https://www.pluralsight.com/courses/ionic2-angular2-typescript-mobile-apps
 
+
+https://www.pluralsight.com/courses/linux-http-services-administration
+https://www.pluralsight.com/courses/iis-certificates
+https://www.pluralsight.com/courses/azure-scripting-operations-automation-70-533
+https://www.pluralsight.com/courses/sso-federated-identities-managing-implementing
+https://www.pluralsight.com/courses/windows-server-2012-r2-certificate-services
+https://www.pluralsight.com/courses/vsphere-6-datacenter-deploy-consolidate-datacenter
+============================================================================================
+https://www.pluralsight.com/courses/powershell-gotchas - Done
+https://www.pluralsight.com/courses/automation-powershell-scripts - Done
+https://www.pluralsight.com/courses/powershell-putting-to-work - Done
+https://www.pluralsight.com/courses/powershell-network-on-the - Done
+https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents - Done
+https://app.pluralsight.com/library/courses/angular-2-forms/table-of-contents - Done
+https://app.pluralsight.com/library/courses/angular-cli/table-of-contents - Done
+https://app.pluralsight.com/library/courses/angular-2-reactive-forms/table-of-contents - Done
+https://app.pluralsight.com/library/courses/angular-http-communication/table-of-contents - Done
+https://app.pluralsight.com/library/courses/angular-fundamentals/table-of-contents - Done
+https://www.pluralsight.com/courses/linux-email-servers-lpic-2 - Done
+https://www.pluralsight.com/courses/csharp-events-delegates - Done
